@@ -1,0 +1,52 @@
+.App {
+    text-align: center;
+  }
+  
+  .name1{
+    background-color: blueviolet;
+    height: 590px;
+    width: 250px;
+    border: 2px solid blueviolet;
+    border-radius: 30px;
+  }
+  .file1{
+    margin-top: 200px;
+    color: white;
+  }
+  .file2{
+    color:white;
+  }
+  .file3{
+    color: white;
+  }
+  .file4{
+    color: white;
+  }
+  .name2{
+    background-color: white;
+    border: 2px solid white;
+    width: 1000px;
+  }
+  .style1{
+    margin-left: 50px;
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+    
+  }
+  .field1{
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 25px;
+    display: flex;
+  }
+  .const{
+    margin-left: 120px;
+    font-size: 20px;
+  }
+  .address{
+    margin-left: 120px;
+    font-size: 20px;
+  }
+  

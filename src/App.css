@@ -1,0 +1,47 @@
+.profile {
+  background-color: white;
+  height: 100vh;
+  text-align: center;
+  font-size: 15px;
+  border: 2px solid white;
+}
+.text{
+  font-size: 20px;
+  border-radius: 5px;
+  width: 350px;
+  border: 0.5px solid black;
+  height: 50px;
+  background-color: gray;
+}
+.page{
+  
+  border-radius: 5px;
+  border: 0.5px solid indigo;
+  width: 350px;
+  margin: auto;
+  background-color: white;
+
+  
+  
+  
+}
+.bar1{
+  height: 30px;
+  width:40px;
+  
+  
+
+
+}
+.field{
+  display: flex;
+  margin-left: 20px;
+  margin-right: 25px;
+  width: 300px;
+  padding-right: 50px;
+}
+
+
+
+
+
